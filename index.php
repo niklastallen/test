@@ -55,9 +55,7 @@ fdg
 fd
 gdf
 g
-<<<<<<< HEAD
 fdg
-=======
 fdgsdfsd
 fsd
 f
@@ -74,4 +72,3 @@ dsfd
 fsd
 d
 s
->>>>>>> test commit
